@@ -1,4 +1,4 @@
-# Daemon
+# Unbox
 
 An AI-powered email intelligence platform. Turns emails into actions.
 
